@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+html {
+    background-color: #E7473C;
+}
+img {
+    width: 50%;
+    
+}
+p, ol, h2 {
+    color: #F0F0F0;
+}
+#links {
+    list-style-type: none;
+}
